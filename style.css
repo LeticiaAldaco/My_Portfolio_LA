@@ -21,7 +21,7 @@ header {
     font-weight: bold;
     margin: 0;
     font-size: 36px;
-    color: white
+    color: white;
     text-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
   }
   
@@ -60,4 +60,19 @@ header {
   /* HEADER / NAVBAR STYLES END */
   
   
+  /* ABOUT ME STYLE */
+
+.About {
+    font-size: 25px;
+    color: black;
+    padding-bottom: 20px;
+    padding-right: -100px;
+    text-align: left;
+    margin: 0 auto 35px left;
+  }
   
+
+
+
+
+  /*ABOUT ME STYLE END*/
