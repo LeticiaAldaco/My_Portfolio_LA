@@ -1,13 +1,15 @@
+body {
+    background: rgb(27, 243, 243);
+    font-family: Helvetica, Arial, sans-serif; 
+}
+
 /* HEADER / NAV BAR STYLES START */
 
 header {
     padding: 20px 35px;
-    background-color: rgb(27, 243, 243);
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
-    position: -webkit-sticky;
-    position: sticky;
     top: 0; 
     background-size: cover;
     background-position: center;
@@ -62,17 +64,29 @@ header {
   
   /* ABOUT ME STYLE */
 
-.About {
-    font-size: 25px;
-    color: black;
-    padding-bottom: 20px;
-    padding-right: -100px;
-    text-align: left;
-    margin: 0 auto 35px left;
-  }
-  
+article {
+    display: block;
+}
 
-
-
+.flex-row {
+    columns: 3;
+}
 
   /*ABOUT ME STYLE END*/
+
+  /*Projects section style start*/
+
+.projects {
+    padding-bottom: 50px 50px;
+}
+
+
+  /*Projects section syle ends*/
+
+.contact-me {
+    /* background-color: rgb(27, 243, 243); */
+}
+
+.section {
+    padding: 60px;
+}
