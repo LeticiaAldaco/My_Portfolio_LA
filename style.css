@@ -72,6 +72,15 @@ article {
     columns: 3;
 }
 
+.runbuddy {
+   background-image: url(Run.Buddy.png);
+   background-repeat: no-repeat;
+   min-height: 300px;
+   min-width: 500px;
+   max-height: fit-content;
+   resize: both;
+   overflow: auto;
+}
   /*ABOUT ME STYLE END*/
 
   /*Projects section style start*/
@@ -83,10 +92,4 @@ article {
 
   /*Projects section syle ends*/
 
-.contact-me {
-    /* background-color: rgb(27, 243, 243); */
-}
 
-.section {
-    padding: 60px;
-}
