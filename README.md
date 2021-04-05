@@ -1,2 +1,4 @@
 # My_Portfolio_LA
-![Screenshot] (ScreenShotPortfolio.png)
+
+<img src="ScreenShotPortfolio.png" alt="my portfolio"/>
+#My Portfolio 
